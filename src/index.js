@@ -124,8 +124,6 @@ function Square(props) {
     }
   }
   
-  // ========================================
-  
   ReactDOM.render(
     <Game />,
     document.getElementById('root')
